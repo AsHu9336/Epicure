@@ -1,0 +1,24 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.center_slide input{
+  top: 40%;
+  width: 60%;
+  height: 30px;
+  /* border: border-bottom; */
+  /* border-radius: 4px ; */
+}
+
+.center_slide button{
+  background-color: rgb(108, 251, 222);
+  border-radius: 4px;
+  margin: 4px;
+  padding: 2px;
+  text-decoration-style: solid;
+}
+
